@@ -1,0 +1,15 @@
+*linear.txt*  fugitive.vim extension for Linear
+
+Author:  Mehdi Abaakouk  <sileht@sileht.net>
+License: Same terms as Vim itself (see |license|)
+
+Use |i_CTRL-X_CTRL-O| to omni-complete GitHub issues or project collaborator
+usernames when editing a commit message.
+
+ABOUT                                           *linear-about*
+
+Grab the latest version or report a bug on GitHub:
+
+http://github.com/sileht/vim-linear
+
+ vim:tw=78:et:ft=help:norl:
